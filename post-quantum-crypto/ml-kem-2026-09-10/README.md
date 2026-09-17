@@ -11,6 +11,6 @@ SPDX-License-Identifier: Apache-2.0 OR MIT
 
 **Date:** 2026-09-10
 
-**YouTube:** TBA
+**YouTube:** [↗ Link](https://youtu.be/0GMkl1GNlwY)
 
 **Notes:** Thanks to the [mlkem-native](https://github.com/pq-code-package/mlkem-native) maintainers, the Post-Quantum Cryptography Alliance, and the Linux Foundation for the open ML-KEM library this talk reads.
